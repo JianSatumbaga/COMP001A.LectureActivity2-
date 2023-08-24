@@ -1,0 +1,13 @@
+/*
+*Description: Primary style sheet for San Joaquin Valley Town Hall website
+*Author: Jian Satumbaga
+*/
+body { 
+    background-color:#0000ff 
+/*This is supposed to be blue.*/
+}
+h1 {
+    font-style: italic;
+    color: #000000}
+ul {list-style-type: square; /*Changes the bullets to squares*/
+}
