@@ -1,0 +1,1 @@
+This is the code test and validate webpage lecture activity
